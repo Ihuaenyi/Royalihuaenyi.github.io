@@ -23,7 +23,7 @@ repository               : "ihuaenyi.github.io/Royalihuaenyi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpeg"
+  avatar           : "profile.png"
   name             : "Royal C. Ihuaenyi"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher working at the intersection of applied mechanics, computational science, and advanced functional materials towards intelligent autonomous materials characterization."
